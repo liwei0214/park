@@ -1,7 +1,4 @@
-"""
-公园与森林对CO2抑制效果的对比分析 - 完整改进版
-Comparative Analysis of Carbon Suppression: Parks vs Natural Forests
-"""
+
 
 import pandas as pd
 import numpy as np
@@ -954,4 +951,5 @@ def main():
     return analyzer
 
 if __name__ == "__main__":
+
     analyzer = main()
