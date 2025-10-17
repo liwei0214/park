@@ -1,8 +1,4 @@
-"""
-Publication-Quality Figure Generation System
-学术论文发表级图表生成系统
-Designed for high-impact journal submission
-"""
+
 
 import pandas as pd
 import numpy as np
@@ -909,4 +905,5 @@ if __name__ == "__main__":
         print("         Reveals complex dependencies on population density.")
 
         print("\nFigure 5: Comprehensive correlation matrix and city rankings.")
+
         print("         Provides system-level overview of all relationships.")
